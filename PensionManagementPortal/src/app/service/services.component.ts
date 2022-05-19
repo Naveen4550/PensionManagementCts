@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
-const baseUrl = 'http://localhost:8100/ProcessPension';
+const baseUrl = 'http://PensionManagement-1224555768.us-east-1.elb.amazonaws.com:8100/ProcessPension';
 
 @Injectable({
   providedIn: 'root'
