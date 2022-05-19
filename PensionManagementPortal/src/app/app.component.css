@@ -1,0 +1,18 @@
+.navbar-expand{
+   padding-left:3.5%;
+}
+.navbar-right{
+    padding-right:5%;
+}
+body{
+    
+   /* // background: radial-gradient(#653d84, #332042); */
+   /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIFvPQIA85N5_XI9pcJ8GQRl6zztIt0mJcQ&usqp=CAU); */
+
+	
+	background-image:url(http://stoneeagleinvestments.com/wp-content/uploads/2015/01/retirement-jar.jpeg);
+     
+   
+    background-size:cover;
+
+}
